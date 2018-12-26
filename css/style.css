@@ -1,0 +1,12 @@
+.navbar {
+	background-color: aqua;
+}
+/*.test {
+	padding: 50px  0;
+}*/
+.navbar-brand img {
+	height: 70px;
+}
+.row div {
+	height: 500px;
+}
